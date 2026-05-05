@@ -10,8 +10,7 @@
 |---|---|---|
 | 📄 Jobless Economy White Paper | State-level QoG Index + Employment Elasticity Analysis | *This repo* |
 | 🌏 South Asia Climate & Geopolitical Risk Monitor | Climate-conflict risk index across South Asian states | [View Project](https://github.com/animesh97oct-netizen/south-asia-climate-geo-risk-monitor) |
-| 📊 SARCI Index | South Asia Regional Conflict Index — quantitative conflict tracking | [View Project](https://github.com/animesh97oct-netizen/SARCI-index
-) |
+| 📊 SARCI Index | South Asia Regional Conflict Index — quantitative conflict tracking | [View Project](https://github.com/animesh97oct-netizen/SARCI-index) |
 
 > **Note for recruiters:** Each project above is independently verifiable with methodology, data sources, and outputs. Click any link to explore.
 
