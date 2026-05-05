@@ -1,6 +1,6 @@
 # India's Jobless Economy: A State-Level Analysis
 
-**Author:** Animesh Banerjee (with co-authors via Rebounce Apple Programme, 2026)
+**Author:** Animesh Banerjee (with co-authors via Rebounce Appl Programme, 2025-2026)
 
 ---
 
